@@ -37,7 +37,7 @@ I am a Dotnet Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I’m working as a Software Developer (.NET) and contributing to and backend for building web applications.
 
-- :seedling: Exploring AngularJS.
+- :seedling: Exploring Angular.
 
 - :zap: In my free time, I read tech articles.
 
